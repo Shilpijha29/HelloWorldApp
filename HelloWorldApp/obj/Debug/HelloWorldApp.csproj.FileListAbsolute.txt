@@ -1,0 +1,8 @@
+C:\Users\jhash\source\repos\HelloWorldApp\HelloWorldApp\bin\Debug\HelloWorldApp.exe.config
+C:\Users\jhash\source\repos\HelloWorldApp\HelloWorldApp\bin\Debug\HelloWorldApp.exe
+C:\Users\jhash\source\repos\HelloWorldApp\HelloWorldApp\bin\Debug\HelloWorldApp.pdb
+C:\Users\jhash\source\repos\HelloWorldApp\HelloWorldApp\obj\Debug\HelloWorldApp.csproj.AssemblyReference.cache
+C:\Users\jhash\source\repos\HelloWorldApp\HelloWorldApp\obj\Debug\HelloWorldApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\jhash\source\repos\HelloWorldApp\HelloWorldApp\obj\Debug\HelloWorldApp.csproj.CoreCompileInputs.cache
+C:\Users\jhash\source\repos\HelloWorldApp\HelloWorldApp\obj\Debug\HelloWorldApp.exe
+C:\Users\jhash\source\repos\HelloWorldApp\HelloWorldApp\obj\Debug\HelloWorldApp.pdb

@@ -1,0 +1,24 @@
+# Ignore compiled output and intermediate files
+bin/
+obj/
+
+# Visual Studio files
+.vs/
+
+# User-specific files
+*.userprefs
+*.suo
+*.user
+
+# Build results
+*.dll
+*.exe
+
+# NuGet packages
+*.nupkg
+/packages/
+
+
+
+
+
